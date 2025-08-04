@@ -399,7 +399,7 @@ We recognize security researchers who responsibly disclose vulnerabilities:
 
 | Researcher | Vulnerability | Severity | Reward |
 |------------|---------------|----------|---------|
-| [Ricky Foster] | [SQL Injection] | Critical | $10,000 |
+| Ricky Foster | SQL Injection | Critical | $10,000 |
 
 ---
 
