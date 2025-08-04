@@ -6,14 +6,14 @@
 ![DACT Logo](https://img.shields.io/badge/DACT-Planetary%20Recovery%20AI-green?style=for-the-badge&logo=earth&logoColor=white)
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/therickyfoster/dact/actions)
-[![Coverage](https://img.shields.io/badge/Coverage-98%25-brightgreen)](https://github.com/therickyfoster/dact/coverage)
-[![Security Score](https://img.shields.io/badge/Security-A%2B-green)](https://github.com/therickyfoster/dact/security)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/planetaryrestorationarchive/dact/actions)
+[![Coverage](https://img.shields.io/badge/Coverage-98%25-brightgreen)](https://github.com/planetaryrestorationarchive/dact/coverage)
+[![Security Score](https://img.shields.io/badge/Security-A%2B-green)](https://github.com/planetaryrestorationarchive/dact/security)
 [![Uptime](https://img.shields.io/badge/Uptime-99.99%25-brightgreen)](https://status.dact.org)
 
-[![GitHub stars](https://img.shields.io/github/stars/therickyfoster/dact?style=social)](https://github.com/therickyfoster/dact/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/therickyfoster/dact?style=social)](https://github.com/therickyfoster/dact/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/your-org/dact?style=social)](https://github.com/therickyfoster/dact/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/planetaryrestorationarchive/dact?style=social)](https://github.com/planetaryrestorationarchive/dact/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/planetaryrestorationarchive/dact?style=social)](https://github.com/planetaryrestorationarchive/dact/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/planetaryrestorationarchive/dact?style=social)](https://github.com/planetaryrestorationarchive/dact/watchers)
 
 **[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [🤝 Contributing](#-contributing) • [🛡️ Security](#-security) • [📊 Roadmap](#-roadmap)**
 
