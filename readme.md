@@ -6,14 +6,14 @@
 ![DACT Logo](https://img.shields.io/badge/DACT-Planetary%20Recovery%20AI-green?style=for-the-badge&logo=earth&logoColor=white)
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/your-org/dact/actions)
-[![Coverage](https://img.shields.io/badge/Coverage-98%25-brightgreen)](https://github.com/your-org/dact/coverage)
-[![Security Score](https://img.shields.io/badge/Security-A%2B-green)](https://github.com/your-org/dact/security)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/therickyfoster/dact/actions)
+[![Coverage](https://img.shields.io/badge/Coverage-98%25-brightgreen)](https://github.com/therickyfoster/dact/coverage)
+[![Security Score](https://img.shields.io/badge/Security-A%2B-green)](https://github.com/therickyfoster/dact/security)
 [![Uptime](https://img.shields.io/badge/Uptime-99.99%25-brightgreen)](https://status.dact.org)
 
-[![GitHub stars](https://img.shields.io/github/stars/your-org/dact?style=social)](https://github.com/your-org/dact/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-org/dact?style=social)](https://github.com/your-org/dact/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/your-org/dact?style=social)](https://github.com/your-org/dact/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/therickyfoster/dact?style=social)](https://github.com/therickyfoster/dact/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/therickyfoster/dact?style=social)](https://github.com/therickyfoster/dact/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/your-org/dact?style=social)](https://github.com/therickyfoster/dact/watchers)
 
 **[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [🤝 Contributing](#-contributing) • [🛡️ Security](#-security) • [📊 Roadmap](#-roadmap)**
 
@@ -366,7 +366,7 @@ We welcome contributions from developers, researchers, and planetary stewards wo
 
 Contributors to DACT become part of the **Planetary Restoration Honor Roll**:
 
-[![Contributors](https://img.shields.io/github/contributors/your-org/dact?style=for-the-badge)](https://github.com/your-org/dact/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/your-org/dact?style=for-the-badge)](https://github.com/therickyfoster/dact/graphs/contributors)
 
 ---
 
@@ -387,7 +387,7 @@ Contributors to DACT become part of the **Planetary Restoration Honor Roll**:
 
 **Do NOT open public issues for security vulnerabilities!**
 
-Instead, email us at: **security@dact.org** with:
+Instead, email us at: **security@planetaryrestorationarchive.com** with:
 - Detailed description of the vulnerability
 - Steps to reproduce
 - Potential impact assessment
@@ -399,7 +399,7 @@ We recognize security researchers who responsibly disclose vulnerabilities:
 
 | Researcher | Vulnerability | Severity | Reward |
 |------------|---------------|----------|---------|
-| [Your Name] | [Vuln Type] | Critical | $10,000 |
+| [Ricky Foster] | [SQL Injection] | Critical | $10,000 |
 
 ---
 
@@ -458,11 +458,11 @@ GNU Affero General Public License for more details.
 
 *— Chief Seattle*
 
-### 🚀 [Get Started Now](https://github.com/your-org/dact/wiki/Quick-Start) | 💬 [Join Community](https://discord.gg/dact) | 🌟 [Star This Repo](https://github.com/your-org/dact)
+### 🚀 [Get Started Now](https://github.com/planetaryrestorationarchive/dact/wiki/Quick-Start) | 💬 [Join Community](https://discord.gg/planetaryrestorationarchive) | 🌟 [Star This Repo](https://github.com/planetaryrestorationarchive//dact)
 
 ---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-org/dact&type=Date)](https://star-history.com/#your-org/dact&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=planetaryrestorationarchive/dact&type=Date)](https://star-history.com/#planetaryrestorationarchive/dact&Date)
 
 **Made with 💚 for planetary restoration**
 
@@ -470,4 +470,4 @@ GNU Affero General Public License for more details.
 
 ---
 
-*Last updated: August 4, 2025 | Document Version: 2.0 | [Edit this page](https://github.com/your-org/dact/edit/main/README.md)*
+*Last updated: August 4, 2025 | Document Version: 2.0 | [Edit this page](https://github.com/planetaryrestorationarchive/dact/edit/main/readme.md)*
